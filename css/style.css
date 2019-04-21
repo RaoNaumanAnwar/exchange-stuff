@@ -1,0 +1,44 @@
+.navbar.navbar-transparent{
+    position: absolute;
+    top: 0;
+    width: 100%;
+    left: 0;
+}
+
+
+.home-page{
+
+}
+
+.cta-container{
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    min-height: 400px;
+    padding: 50px 0;
+    display: flex;
+    align-items: center;
+    padding: 0 100px;
+}
+.cta-content{
+    max-width: 700px;
+}
+.cta-search-form{
+    display: flex;
+}
+
+
+/* main footer */
+.main-footer{
+    border-top: 1px solid #ddd;
+}
+
+
+/*  section  */
+.section{
+    padding: 60px 0;
+}
+.section-title{
+    margin-bottom: 50px;
+}
